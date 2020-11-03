@@ -1,7 +1,7 @@
 # Opinión del Master de Profesorado en la ULL
 Mi experiencia en el master está siendo buena. En general los profesores están motivados, dan las clases con ilusión y estamos aprendiendo cosas interesantes,
 las cuales nos pueden ayudar mucho en el futuro. En mi caso no estoy trabajando y eso me permite seguir la evaluación continua en el master, pues se
-van acumulando las tareas y es difícil compaginar la evaluacion continua de este master con un trabajo. Tengo que felicitar a los que hagan esto.
+van acumulando las tareas y es difícil compaginar la evaluacion continua de este master con un trabajo (aunque estoy haciendo un curso online por las mañanas). Tengo que felicitar a los que hagan esto.
 
 Por otro lado, no todo es bueno en el master. La ULL podría haber gestionado mejor la situación del Covid-19 con un mejor seguimiento de los contagios, de momento a mi no me ha 
 ocurrido nada, pero da la sensación de inseguridad y de transmitir poca información con los contagios que se han producido. Además, se obliga a tener clases presenciales
