@@ -14,3 +14,5 @@
 
 ## Experiencia Laboral
 * Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor
+## Cita favorita
+Yoda siempre dice > Que la fuerza te acompañe
