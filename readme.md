@@ -15,4 +15,24 @@
 ## Experiencia Laboral
 * Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor
 ## Cita favorita
-Yoda siempre dice > Que la fuerza te acompañe
+> Que la fuerza te acompañe
+## Código 
+``` Arduino
+void setup()
+{
+  pinMode(A1, INPUT);
+  pinMode(13, OUTPUT);
+  pinMode(11, OUTPUT);
+}
+
+void loop()
+{
+  if (analogRead(A1) > 500) {
+    digitalWrite(13, HIGH);
+    digitalWrite(11, HIGH);
+    delay(1000); // Wait for 1000 millisecond(s)
+    digitalWrite(11, LOW);
+    digitalWrite(13, LOW);
+    delay(1000); // Wait for 1000 millisecond(s)
+  }
+}
