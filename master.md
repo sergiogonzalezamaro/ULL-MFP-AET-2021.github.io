@@ -9,3 +9,5 @@ y está bien para una clase con 22 alumnos, como ocurre en las asignaturas espec
 seguir la clase cuando estás online y también es difícil para el profesor estar atendiendo a alumnos que no ve y, a veces, ni escucha por problemas técnicos. Así que sería mejor 
 estar todos los alumnos online en caso de grupos grandes. Además, al estar online también es más facil para que los alumnos trabajemos en grupo, ya que estando en clase hay que 
 mantener las distancias de seguridad y con todos hablando y las mascarillas se dificulta mucho el entendimiento entre unos y otros.
+
+[Mi CV](https://github.com/ULL-MFP-AET-2021/p02-t0-aprender-markdown-sergiogonzalezamaro/edit/main/readme.md)
