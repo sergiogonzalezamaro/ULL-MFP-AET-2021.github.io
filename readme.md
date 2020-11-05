@@ -2,12 +2,12 @@
 
 # Curriculum Vitae
 ## Datos generales
-* **Nombre** Sergio González Amaro
+* **Nombre** {{site.data.cv.Nombre}}
 * [Usuario ULL](https://campusdoctoradoyposgrado.ull.es/user/profile.php?id=34035)
 
 ## Educación
-* Grado Universitario: Ingeniería Mecánica
-* Idiomas: Diplomado en Inglés B1 por la ULL
+* Grado Universitario: {{site.data.cv.Grado Universitario}}
+* Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
 - [x] Electricidad industrial nivel medio
