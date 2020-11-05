@@ -7,7 +7,7 @@
 
 ## Educación
 * Grado Universitario: Ingeniería Mecánica
-* Idiomas: Diploma B1 por la ULL
+* Idiomas: Diplomado en Inglés B1 por la ULL
 
 ### Cursos
 - [x] Electricidad industrial nivel medio
