@@ -42,11 +42,11 @@ void loop()
 }
 ```
 ## Programas
-|Programa | Nivel de conocimiento|
-|-------- | --------|
-|Autocad 2D | Avanzado|
-|Cypecad | Avanzado|
-|CE3x | Avanzado|
+|Programa|Nivel de conocimiento|
+|--------|--------|
+|Autocad 2D|Avanzado|
+|Cypecad|Avanzado|
+|CE3x|Avanzado|
 
 ## Evaluación
 - [ ] Todo ok? :call_me_hand:
