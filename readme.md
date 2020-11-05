@@ -7,14 +7,14 @@
 
 ## Educación
 * Grado Universitario: Ingeniería Mecánica
-* Diploma B1 por la ULL
+* Idiomas: Diploma B1 por la ULL
 
 ### Cursos
 - [x] Electricidad industrial nivel medio
 - [x] Eficiencia energética en instalaciones de alumbrado exterior
 
 ## Experiencia Laboral
-* Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor
+* Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor (Duración 10 meses)
 
 ## Cita favorita
 Palabras de Yoda de Star Wars
