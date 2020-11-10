@@ -6,11 +6,11 @@
 * [Usuario ULL](https://campusdoctoradoyposgrado.ull.es/user/profile.php?id=34035)
 
 ## Educación
-* Grado Universitario: {{site.data.cv.Grado Universitario}}
+* Grado Universitario: {{site.data.cv.Grado_Universitario}}
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-{% assign array = "Electricidad industrial nivel mediokkk" "Eficiencia energética en instalaciones de alumbrado exterioggggr" %} 
+{% assign array = "Electricidad industrial nivel mediokkk" , "Eficiencia energética en instalaciones de alumbrado exterioggggr" %} 
   {% for Cursos in array %}
     {{ Cursos }}
   {% endfor %}
