@@ -10,15 +10,14 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-{% assign array_string = "Electricidad industrial nivel mediokkk" , "Eficiencia energética en instalaciones de alumbrado exterioggggr" %} 
+[{% assign array_string = "Electricidad industrial nivel mediokkk" , "Eficiencia energética en instalaciones de alumbrado exterioggggr" %} 
 {% assign array = array_string | split: "," %}
 <ul>
   {% for Cursos in array %}
     <li>{{ Cursos }}<li>
   {% endfor %}
 </ul>
-{{site.data.cv.Cursos[1]}}
-
+]
 ## Experiencia Laboral
 * Puesto: Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor (Duración 10 meses)
 
