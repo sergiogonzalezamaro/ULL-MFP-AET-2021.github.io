@@ -10,11 +10,11 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-- [x] Electricidad industrial nivel medio
-- [x] Eficiencia energética en instalaciones de alumbrado exterior
+- [x] {{site.data.cv.Cursos[0]}}
+- [x] {{site.data.cv.Cursos[1]}}
 
 ## Experiencia Laboral
-* Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor (Duración 10 meses)
+* Puesto: Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor (Duración 10 meses)
 
 ## Cita favorita
 Palabras de Yoda de Star Wars
@@ -42,12 +42,13 @@ void loop()
 }
 ```
 ## Programas
-
+<!-- if site.Programa = "Programa" -->
+<!-- if site.Programa = "Nivel de conocimiento" -->
 |Programa|Nivel de conocimiento|
 |--------|--------|
-|Autocad 2D|Avanzado|
-|Cypecad|Avanzado|
-|CE3x|Avanzado|
+|{{ site.Programa[0] }}|{{ site.Nivel de conocimiento[0] }}|
+|{{ site.Programa[1] }}|{{ site.Nivel de conocimiento[1] }}|
+|{{ site.Programa[2] }}|{{ site.Nivel de conocimiento[2] }}|
 
 ## Evaluación
 - [ ] Todo ok? :call_me_hand:
