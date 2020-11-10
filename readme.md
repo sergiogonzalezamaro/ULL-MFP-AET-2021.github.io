@@ -10,7 +10,8 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-- [x] {% assign array_string = "Cursos" %} {% assign array = array_string | split: "," %}
+- [x] {% assign array_string = "Cursos" %} 
+{% assign array = array_string | split: "," %}
 <ul>
   {% for Cursos in array %}
     <li>{{ Cursos }}<li>
