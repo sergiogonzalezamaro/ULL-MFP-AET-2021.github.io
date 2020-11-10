@@ -10,11 +10,12 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-{% assign array = "Electricidad industrial nivel mediokkk" , "Eficiencia energética en instalaciones de alumbrado exterioggggr" %} 
+{% assign array = "Electricidad industrial nivel mediokkk" , "Eficiencia energética en instalaciones de alumbrado exterioggggr" %}
+<ul>
   {% for Cursos in array %}
-    {{ Cursos }}
+    <li>{{ Cursos }}</li>
   {% endfor %}
-
+</ul>
 ## Experiencia Laboral
 * Puesto: {{site.data.cv.Puesto}}
 
