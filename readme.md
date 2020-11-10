@@ -11,6 +11,7 @@
 
 ### Cursos
 {% for a in site.data.cv.Cursos %}
+
 * {{ a.Cursos }}
 {% endfor %}
 
@@ -47,7 +48,7 @@ void loop()
 
 |Programa|Nivel de conocimiento|
 |--------|--------|
-|{{ nivel.programa }}|{{ nivel_de_conocimiento }}|
+|{{ nivel.Programa }}|{{ Nivel_de_conocimiento }}|
 |{% endfor %}| |
 
 
