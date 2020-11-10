@@ -10,7 +10,7 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-{% assign array = "Electricidad industrial nivel mediokkk" , "Eficiencia energética en instalaciones de alumbrado exterioggggr" %}
+{% assign array = "Electricidad industrial nivel medio" , "Eficiencia energética en instalaciones de alumbrado exterior" %}
 <ul>
   {% for Cursos in array %}
     <li>{{ Cursos }}</li>
