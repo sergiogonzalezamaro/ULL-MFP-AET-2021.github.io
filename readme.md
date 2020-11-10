@@ -11,7 +11,7 @@
 
 ### Cursos
 {% for a in site.data.cv.Cursos %}
-* {{ Cursos }}
+* {{ a.Cursos }}
 {%- endfor %}
 
 ## Experiencia Laboral
