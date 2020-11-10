@@ -47,7 +47,7 @@ void loop()
 
 |Programa|Nivel de conocimiento|
 |--------|--------|
-|{{ nivel.Programa }}|{{ Niveldeconocimiento }}|
+|{{ nivel.Programa }}|{{ nivel.Niveldeconocimiento }}|
 |{% endfor %}| |
 
 
