@@ -10,9 +10,9 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-{% for a in site.data.cv.Cursos %}
+{%- for a in site.data.cv.Cursos %}
 * {{ a }}
-{% endfor %}
+{%- endfor %}
 
 ## Experiencia Laboral
 * Puesto: {{site.data.cv.Puesto}}
