@@ -12,7 +12,7 @@
 ### Cursos
 {% for a in site.data.cv.Cursos %}
 * {{ a.Cursos }}
-{%- endfor %}
+{% endfor %}
 
 ## Experiencia Laboral
 * Puesto: {{site.data.cv.Puesto}}
@@ -43,13 +43,13 @@ void loop()
 }
 ```
 ## Programas
-<!-- if site.Programa = "Programa" -->
-<!-- if site.Programa = "Nivel de conocimiento" -->
+{% for nivel in site.data.cv.Cursos %}
+
 |Programa|Nivel de conocimiento|
 |--------|--------|
-|{{ site.Programa[0] }}|{{ site.Nivel de conocimiento[0] }}|
-|{{ site.Programa[1] }}|{{ site.Nivel de conocimiento[1] }}|
-|{{ site.Programa[2] }}|{{ site.Nivel de conocimiento[2] }}|
+|{{ nivel.programa }}|{{ nivel_de_conocimiento }}|
+|{% endfor %}| |
+
 
 ## Evaluación
 - [ ] Todo ok? :call_me_hand:
