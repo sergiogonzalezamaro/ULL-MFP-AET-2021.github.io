@@ -10,7 +10,7 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-- [x] {{site.data.cv.Cursos[0]}}
+- [x] {{site.data.cv.Cursos}}
 - [x] {{site.data.cv.Cursos[1]}}
 
 ## Experiencia Laboral
