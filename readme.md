@@ -13,7 +13,7 @@
 {% assign array_string = "Electricidad industrial nivel mediokkk" , "Eficiencia energética en instalaciones de alumbrado exterioggggr" %} 
 {% assign array = array_string | split: "," %}
   {% for Cursos in array %}
-    <li>{{ Cursos }}<li>
+    {{ Cursos }}
   {% endfor %}
 
 ## Experiencia Laboral
