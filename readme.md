@@ -10,7 +10,12 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-- [x] {{site.data.cv.Cursos}}
+- [x] {% assign array_string = "Cursos" %} {% assign array = array_string | split: "," %}
+<ul>
+  {% for Cursos in array %}
+    <li>{{ Cursos }}<li>
+  {% endfor %}
+  </ul>
 - [x] {{site.data.cv.Cursos[1]}}
 
 ## Experiencia Laboral
