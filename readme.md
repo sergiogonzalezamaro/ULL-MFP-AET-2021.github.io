@@ -10,13 +10,13 @@
 * Idiomas: {{site.data.cv.Idiomas}}
 
 ### Cursos
-{% assign array = "Electricidad industrial nivel mediokkk" , "Eficiencia energética en instalaciones de alumbrado exterioggggr" %} 
+{% assign array = "Electricidad industrial nivel mediokkk" "Eficiencia energética en instalaciones de alumbrado exterioggggr" %} 
   {% for Cursos in array %}
     {{ Cursos }}
   {% endfor %}
 
 ## Experiencia Laboral
-* Puesto: Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor (Duración 10 meses)
+* Puesto: {{site.data.cv.Puesto}}
 
 ## Cita favorita
 Palabras de Yoda de Star Wars
