@@ -2,7 +2,10 @@
     "Nombre": "Sergio González Amaro",
     "Grado_Universitario": "Ingeniería Mecánica",
     "Idiomas": "Diplomado en Inglés B1 por la ULL",  
-    "Cursos": [{"Electricidad industrial nivel medio"},{"Eficiencia energética en instalaciones de alumbrado exterior"}],
+    "Cursos": [
+        {"Electricidad industrial nivel medio"},
+        {"Eficiencia energética en instalaciones de alumbrado exterior"}
+    ],
     "Puesto": "Ingeniero Técnico en el departamento de mantenimiento en la empresa Elecnor (Duración 10 meses)",
     "Programas": [
     { "Programa": "Autocad 2D", "Nivel de conocimiento": "Avanzado" },
