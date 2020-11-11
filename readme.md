@@ -43,11 +43,11 @@ void loop()
 }
 ```
 ## Programas
-{% for nivel in site.data.cv.Cursos %}
+{% for tabla in site.data.cv.Programas %}
 
 |Programa|Nivel de conocimiento|
 |--------|--------|
-|{{ nivel.Programa }}|{{ nivel.Niveldeconocimiento }}|
+|{{ tabla.Programa }}|{{ tabla.Nivel }}|
 {% endfor %}|
 
 ## Evaluación
