@@ -48,8 +48,7 @@ void loop()
 |Programa|Nivel de conocimiento|
 |--------|--------|
 |{{ nivel.Programa }}|{{ nivel.Niveldeconocimiento }}|
-|{% endfor %}| |
-
+{% endfor %}|
 
 ## Evaluación
 - [ ] Todo ok? :call_me_hand:
