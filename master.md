@@ -1,3 +1,5 @@
+---
+---
 # Opinión del Master de Profesorado en la ULL
 Mi experiencia en el master está siendo buena. En general los profesores están motivados, dan las clases con ilusión y estamos aprendiendo cosas interesantes,
 las cuales nos pueden ayudar mucho en el futuro. En mi caso no estoy trabajando y eso me permite seguir la evaluación continua en el master, pues se
@@ -10,4 +12,4 @@ seguir la clase cuando estás online y también es difícil para el profesor est
 estar todos los alumnos online en caso de grupos grandes. Además, al estar online también es más facil para que los alumnos trabajemos en grupo, ya que estando en clase hay que 
 mantener las distancias de seguridad y con todos hablando y las mascarillas se dificulta mucho el entendimiento entre unos y otros.
 
-[Mi CV](https://github.com/ULL-MFP-AET-2021/p02-t0-aprender-markdown-sergiogonzalezamaro/edit/main/readme.md)
+[Mi CV]({{site.baseurl}}/)

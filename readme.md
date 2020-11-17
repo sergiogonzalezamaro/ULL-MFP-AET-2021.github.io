@@ -1,4 +1,7 @@
-![ULL Logo](https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg)
+---
+permalink: index.html
+---
+<img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg" width="20%">
 
 # Curriculum Vitae
 ## Datos generales
@@ -22,7 +25,7 @@ Palabras de Yoda de Star Wars
 > Que la fuerza te acompañe
 
 ## Código 
-``` C++
+```cpp
 void setup()
 {
   pinMode(A1, INPUT);
@@ -43,15 +46,15 @@ void loop()
 }
 ```
 ## Programas
-{%- for tabla in site.data.cv.Programas %}
 
 |Programa|Nivel de conocimiento|
+{%- for tabla in site.data.cv.Programas %}
 |--------|--------|
-|{{ tabla.Programa }}|{{ tabla.Nivel }}|
+|{{- tabla.Programa }}|{{ tabla.Nivel }}|
 {%- endfor %}
 
 ## Evaluación
 - [ ] Todo ok? :call_me_hand:
 
 ## Experiencia Master
-[Opinion Master](https://github.com/ULL-MFP-AET-2021/p02-t0-aprender-markdown-sergiogonzalezamaro/blob/main/master.md)
+[Opinion Master]({{site.baseurl}}/master)
